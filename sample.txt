@@ -1,0 +1,25 @@
+Name                      : Sriram Varma Kalidindi
+UTA-ID                    : 1001974638
+Runtime Stack             : python 3.9     
+Adv DB
+Assignment-01
+----------------------------------------------------------------
+
+The App is hosted on azure
+
+Link:
+https://assmt01-sxk4638.azurewebsites.net/
+
+----------------------------------------------------------------
+
+1)Install sqlite: pip install pysqlite3 
+
+2)command       : pip3 install -r requirements.txt to install all other required dependencies
+
+3)Next command  : "flask run" 
+ 
+->open http://127.0.0.1:5000/ in browser.
+
+-----------------------------------------------------------------
+
+->db.py (code which create the database, a table and add the .csv values to the table.) 
